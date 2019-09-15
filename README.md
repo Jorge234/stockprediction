@@ -1,0 +1,1 @@
+Stock Prediction is an model to predict stock prices
